@@ -33,6 +33,7 @@ body {
 }
 
 .nav-logo h2 {
+    text-decoration: none;
   color: #007bff;
   font-size: 1.8rem;
 }
@@ -224,5 +225,3 @@ footer {
   background-color: #e9ecef;
   color: #555;
 }
-
-
